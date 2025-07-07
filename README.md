@@ -25,7 +25,7 @@ I'm always open to meaningful conversations, cool projects, and building tools t
 
 📧 Email: [bankgourab@gmail.com](mailto:bankgourab@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/gourabbank](https://linkedin.com/in/gourabbank)  
-🌐 Portfolio: [linktr.ee/gourabbank](https://linktr.ee/gourabbank)  
+🌐 Portfolio: [gourabbank.github.io/my-portfolio/](https://gourabbank.github.io/my-portfolio/)  
 🐙 GitHub: [github.com/gourabbank](https://github.com/gourabbank)
 
 ---
